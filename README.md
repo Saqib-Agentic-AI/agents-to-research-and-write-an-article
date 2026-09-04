@@ -20,20 +20,13 @@ Key features
 - Export formats: Markdown (ready for publishing), plain text, and optional HTML
 
 Table of contents
-1. [Demo / Quick Look](#demo--quick-look)  
-2. [Getting Started](#getting-started)  
-3. [How it works (overview)](#how-it-works-overview)  
-4. [Configuration](#configuration)  
-5. [Usage examples](#usage-examples)  
-6. [Extending the system](#extending-the-system)  
-7. [Contributing & Support](#contributing--support)  
-8. [Credits](#credits)
-
-Demo / Quick look
------------------
-(Replace the placeholder below with a GIF or screenshot for maximum impact)
-
-![demo-placeholder](https://via.placeholder.com/900x250.png?text=Demo+-+Agents+research+and+write+an+article)
+- [Getting Started](#getting-started)
+- [How it works (overview)](#how-it-works-overview)
+- [Configuration](#configuration)
+- [Usage examples](#usage-examples)
+- [Extending the system](#extending-the-system)
+- [Contributing & Support](#contributing--support)
+- [Credits](#credits)
 
 Getting started
 ---------------
